@@ -1,0 +1,65 @@
+{
+    "mission_type": "Operasi Intelijen",
+    "location": "Timur Laut Indonesia",
+    "objective": "Menangkap terduga jaringan teroris",
+    "enemy_presence": [
+        "Sedikit",
+        "Banyak",
+        "Tidak ada"
+    ],
+    "resources": [
+        "Pasukan Khusus",
+        "Dron Pengintai",
+        "Intelijen Satelit",
+        "Peralatan Pengawasan Canggih",
+        "Tim Medis"
+    ],
+    "timeline": {
+        "start_date": "2025-05-01T00:00:00",
+        "end_date": "2025-05-10T23:59:59",
+        "estimated_duration_hours": 240
+    },
+    "terrain": {
+        "type": "Hutan Tropis",
+        "difficulties": [
+            "Tebal dan terjal",
+            "Kurangnya sinyal komunikasi",
+            "Cuaca ekstrem (hujan deras)"
+        ]
+    },
+    "communication_plan": {
+        "primary_channel": "Komunikasi Satelit",
+        "backup_channel": "Radio Frekuensi Tinggi",
+        "emergency_channel": "Telepon Satelit"
+    },
+    "intelligence_report": {
+        "source": "Intelijen Lapangan",
+        "accuracy": 85,
+        "confidence_level": "Tinggi",
+        "details": "Terduga jaringan teroris beroperasi di daerah yang telah ditentukan, dengan pengawasan terbatas dari pihak luar."
+    },
+    "team": {
+        "leader": {
+            "name": "Kapten Agus Prasetyo",
+            "rank": "Kapten",
+            "specialization": "Intelijen Militer"
+        },
+        "members": [
+            {
+                "name": "Letnan Satu Andi Setiawan",
+                "rank": "Letnan Satu",
+                "specialization": "Pengintaian"
+            },
+            {
+                "name": "Serda Budi Santoso",
+                "rank": "Serda",
+                "specialization": "Komunikasi"
+            },
+            {
+                "name": "Kopda Rizki Anwar",
+                "rank": "Kopda",
+                "specialization": "Medis"
+            }
+        ]
+    }
+}
