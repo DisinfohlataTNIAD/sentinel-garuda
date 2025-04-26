@@ -1,2 +1,10 @@
-# sentinel-garuda
-Sistem Deteksi Dini dan Respons Disinformasi Siber TNI AD Proyek resmi inisiatif internal Disinfohlata TNI AD dan Satuan Siber Angkatan Darat
+# SENTINEL GARUDA
+Sistem Deteksi Disinformasi dan Propaganda Siber untuk TNI AD.
+
+## Fitur
+- Scraper otomatis berita/materi sosial media
+- Classifier AI untuk mendeteksi berita palsu
+- Dashboard pemantauan
+- Simulator penyebaran disinformasi
+
+Dikembangkan oleh Disinfohlata TNI AD.
