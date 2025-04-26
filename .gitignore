@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+.env
+
+# Node (Frontend Vue.js)
+node_modules/
+dist/
+npm-debug.log
+yarn-error.log
+
+# Dataset dan Model Berat
+datasets/*.csv
+defender/fake_news_model.h5
+defender/tokenizer.pickle
+
+# Docker
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# System
+.DS_Store
+Thumbs.db
